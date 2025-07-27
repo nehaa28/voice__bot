@@ -60,6 +60,16 @@ LLM            : Groq (LLaMA-3)
 Transcription  : OpenAI Whisper API  
 TTS            : ElevenLabs API
 
+## 🧱 Tech Stack
+
+| Component        | Tech/Tool                    |
+|------------------|------------------------------|
+| Frontend | Streamlit                  |
+| Audio Stream    | streamlit-webrtc + AV |
+| LLM  | Groq (LLaMA-3)  |
+| Transcription  | OpenAI Whisper API |
+| TTS     | ElevenLabs API  |
+
 
 📌 Notes
 - Microphone access is required
