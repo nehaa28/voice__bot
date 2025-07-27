@@ -28,6 +28,7 @@ Install via pip:
 
 ```bash
 pip install streamlit streamlit-webrtc python-dotenv requests groq elevenlabs av
+```
 
 🔐 Environment Variables
 Create a `.env` file in your project root:
