@@ -1,0 +1,11 @@
+whisper
+torch
+sounddevice
+coqui-tts
+transformers
+numpy==2.1
+scipy 
+gtts 
+openai-whisper
+llama-cpp-python
+
