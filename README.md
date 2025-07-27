@@ -37,10 +37,12 @@ Create a `.env` file in your project root:
 GROQ_API_KEY=your_groq_api_key  
 ELEVEN_API_KEY=your_elevenlabs_api_key  
 OPENAI_API_KEY=your_openai_api_key
+```
 
 ▶️ How to Run
 ```bash
 streamlit run app.py
+```
 
 Then open your browser at: http://localhost:8501
 
